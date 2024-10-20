@@ -92,7 +92,7 @@ As you fill in the tables below with your percentages**,** please keep in mind w
 
 Course specific: CISC 211 (Spring 2024)
 
-| **Race or Ethnicity**            | **[% of Students Enrolled in Your Course(s) Who Did Not Withdraw and Received a Valid Grade (Course Retention Rate)](https://github.com/d-khan/facultyinstitute/blob/main/Screen%20Shot%202024-10-20%20at%2010.15.08%20AM.png)** | **Community College Overall** |
+| **Race or Ethnicity**            | **% of Students Enrolled in Your Course(s) Who Did Not Withdraw and Received a Valid Grade (Course Retention Rate)** | **Community College Overall** |
 | -------------------------------- | ------------------------------------------------------------ | ----------------------------- |
 | African American or Black        | 85                                                           | 88                            |
 | American Indian or Alaska Native | NA                                                           | 93                            |
@@ -104,11 +104,9 @@ Course specific: CISC 211 (Spring 2024)
 | White                            | 94                                                           | 94                            |
 | Other, unreported or N/A         | NA                                                           | 96                            |
 
-**Community College Overall**
-![image-20241020100541351](https://github.com/d-khan/facultyinstitute/blob/main/Screen%20Shot%202024-10-20%20at%2010.07.24%20AM.png)
+**[Community College Overall](image-20241020100541351](https://github.com/d-khan/facultyinstitute/blob/main/Screen%20Shot%202024-10-20%20at%2010.07.24%20AM.png)**
 
-**% of Students Enrolled in Your Course(s) Who Did Not Withdraw and Received a Valid Grade (Course Retention Rate)**
-https://github.com/d-khan/facultyinstitute/blob/main/Screen%20Shot%202024-10-20%20at%2010.15.08%20AM.png
+**[% of Students Enrolled in Your Course(s) Who Did Not Withdraw and Received a Valid Grade (Course Retention Rate)](https://github.com/d-khan/facultyinstitute/blob/main/Screen%20Shot%202024-10-20%20at%2010.15.08%20AM.png)**
 
 ## Question 8
 
