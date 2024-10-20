@@ -135,7 +135,7 @@ Course specific: CISC 211 (Spring 2024)
 
 a. Which ethnic or racial groups at your institution experience relatively lower retention rates in your courses?
 
-> Retention rate of one course versus retention rate for the entire college is like comparing apples to oranges. Performing statistical analysis of low N versus high N will give fluctuations in the result. In my spring 2024, CISC 211 class, I had only 15 students. In addition, Computer Science courses are generally required hard skills and require prior knowledge of computers
+> Retention rate of one course versus retention rate for the entire college is like comparing apples to oranges. Performing statistical analysis of low N versus high N will give fluctuations in the result. In my spring 2024, CISC 211 class, there were 134 students as compared to over 27k students for the entire college. In addition, Computer Science courses are generally required hard skills and require prior knowledge of computers
 
 b. Why do you think this pattern exists?
 
