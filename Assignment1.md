@@ -22,7 +22,7 @@ Aggregate CISC courses
 | White                            | 24                                         | 33                            |
 | Other, unreported or N/A         | 2                                          | 2                             |
 
-https://github.com/d-khan/facultyinstitute/blob/main/Screen%20Shot%202024-10-22%20at%201.59.41%20PM.png
+![xxx](https://github.com/d-khan/facultyinstitute/blob/main/Screen%20Shot%202024-10-22%20at%201.59.41%20PM.png)
 
 https://github.com/d-khan/facultyinstitute
 
