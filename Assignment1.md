@@ -34,6 +34,9 @@ Aggregate CISC courses
 | Female                    | 25                                           | 42                            |
 | Other, unreported, or N/A | 1                                          | 1                             |
 
+[Community College Overall](https://github.com/d-khan/facultyinstitute/blob/main/Screen%20Shot%202024-10-22%20at%202.15.29%20PM.png)
+[% of Students Enrolled in Your Course(s)]()
+
 
 ## Question 3
 
