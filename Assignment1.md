@@ -30,9 +30,10 @@ Aggregate CISC courses
 
 | **Gender**                | **% of Students Enrolled in Your Course(s)** | **Community College Overall** |
 | ------------------------- | -------------------------------------------- | ----------------------------- |
-| Male                      | 75.2                                         | 74                            |
-| Female                    | 24                                           | 25                            |
-| Other, unreported, or N/A | 0.8                                          | 1                             |
+| Male                      | 74                                        | 56                            |
+| Female                    | 25                                           | 42                            |
+| Other, unreported, or N/A | 1                                          | 1                             |
+
 
 ## Question 3
 
