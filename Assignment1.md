@@ -12,17 +12,17 @@ Aggregate CISC courses
 
 | **Race or Ethnicity**            | **% of Students Enrolled in Your Course(s)** | **Community College Overall** |
 | -------------------------------- | -------------------------------------------- | ----------------------------- |
-| African American or Black        | 5                                            | 5                             |
+| African American or Black        | 6                                            | 5                             |
 | American Indian or Alaska Native | NA                                           | NA                            |
-| Asian                            | 32.2                                         | 14                            |
-| Filipino/a                       | 9.1                                          | 7                             |
-| Hispanic                         | 14.9                                         | 30                            |
-| Pacific Islander                 | 1.7                                          | 1                             |
-| Two or More Races                | 11.6                                         | 9                             |
-| White                            | 24.8                                         | 33                            |
-| Other, unreported or N/A         | 0.8                                          | 2                             |
+| Asian                            | 28                                           | 14                            |
+| Filipino/a                       | 9                                          | 7                             |
+| Hispanic                         | 22                                         | 30                            |
+| Pacific Islander                 | NA                                          | 1                             |
+| Two or More Races                | 8                                         | 9                             |
+| White                            | 24                                         | 33                            |
+| Other, unreported or N/A         | 2                                          | 2                             |
 
-
+[Community College Overall](https://github.com/d-khan/facultyinstitute/blob/main/Screen%20Shot%202024-10-22%20at%201.59.41%20PM.png)
 
 ## Question 2
 
