@@ -8,19 +8,21 @@ As you fill in the tables below with your percentages, **please keep in mind whi
 
 Spring 2024
 
-Aggregate courses (CISC 179, 187, 191, 211)
+Aggregate CISC courses
 
 | **Race or Ethnicity**            | **% of Students Enrolled in Your Course(s)** | **Community College Overall** |
 | -------------------------------- | -------------------------------------------- | ----------------------------- |
-| African American or Black        | 5                                            | 6                             |
+| African American or Black        | 5                                            | 5                             |
 | American Indian or Alaska Native | NA                                           | NA                            |
-| Asian                            | 32.2                                         | 28                            |
-| Filipino/a                       | 9.1                                          | 9                             |
-| Hispanic                         | 14.9                                         | 22                            |
-| Pacific Islander                 | 1.7                                          | NA                            |
-| Two or More Races                | 11.6                                         | 8                             |
-| White                            | 24.8                                         | 24                            |
+| Asian                            | 32.2                                         | 14                            |
+| Filipino/a                       | 9.1                                          | 7                             |
+| Hispanic                         | 14.9                                         | 30                            |
+| Pacific Islander                 | 1.7                                          | 1                             |
+| Two or More Races                | 11.6                                         | 9                             |
+| White                            | 24.8                                         | 33                            |
 | Other, unreported or N/A         | 0.8                                          | 2                             |
+
+
 
 ## Question 2
 
