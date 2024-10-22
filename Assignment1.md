@@ -22,9 +22,11 @@ Aggregate CISC courses
 | White                            | 24                                         | 33                            |
 | Other, unreported or N/A         | 2                                          | 2                             |
 
-[Community College Overall](https://github.com/d-khan/facultyinstitute/blob/main/Screen%20Shot%202024-10-22%20at%201.59.41%20PM.png)
+https://github.com/d-khan/facultyinstitute/blob/main/Screen%20Shot%202024-10-22%20at%201.59.41%20PM.png
 
-[% of Students Enrolled in Your Course(s)](https://github.com/d-khan/facultyinstitute)
+https://github.com/d-khan/facultyinstitute
+
+
 
 ## Question 2
 
