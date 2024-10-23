@@ -29,16 +29,6 @@ As you fill in the tables below with your percentages, **please keep in mind whi
 
 ## Question 3 - Age
 
-| **Age Group**            | **% of Students Enrolled in Your Course(s)** | **Community College Overall** |
-| ------------------------ | -------------------------------------------- | ----------------------------- |
-| 17 or younger            | 0.8                                          | 10                            |
-| 18-24                    | 70.2                                         | 66                            |
-| 25-29                    | 15.7                                         | 12                            |
-| 30-39                    | 9.1                                          | 9                             |
-| 40-49                    | 2.5                                          | 2                             |
-| 50 and older             | 1.7                                          | 1                             |
-| Other, unreported or N/A | NA                                           | NA                            |
-
 ### All CISC courses
 
 ![](https://raw.githubusercontent.com/d-khan/facultyinstitute/refs/heads/main/Enrollment%20by%20gender%20-%20CISC.png)
@@ -193,16 +183,6 @@ As you fill in the tables below with your percentages**,** please keep in mind w
 ![](https://raw.githubusercontent.com/d-khan/facultyinstitute/refs/heads/main/Success%20rate%20by%20ethnicity%20-%20all.png)
 
 ## Question 15 - Age
-
-| **Age Group**            | **% of Students Enrolled in Your Course(s) that Earned a Passing Grade****(Course Success Rate)** | **Community College Overall** |
-| ------------------------ | ------------------------------------------------------------ | ----------------------------- |
-| 17 or younger            |                                                              |                               |
-| 18-24                    |                                                              |                               |
-| 25-29                    |                                                              |                               |
-| 30-39                    |                                                              |                               |
-| 40-49                    |                                                              |                               |
-| 50 and older             |                                                              |                               |
-| Other, unreported or N/A |                                                              |                               |
 
 ### All CISC courses
 
