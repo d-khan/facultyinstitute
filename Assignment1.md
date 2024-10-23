@@ -152,18 +152,6 @@ c. What would be your next steps?
 
 As you fill in the tables below with your percentages**,** please keep in mind which demographics in your course are higher or lower compared to your overall college.
 
-| **Race or Ethnicity**            | **% of Students Enrolled in Your Course(s) Who Earned a Passing Grade****(Course Success Rate)** | **Community College Overall** |
-| -------------------------------- | ------------------------------------------------------------ | ----------------------------- |
-| African American or Black        |                                                              |                               |
-| American Indian or Alaska Native |                                                              |                               |
-| Asian                            |                                                              |                               |
-| Filipino/a                       |                                                              |                               |
-| Hispanic                         |                                                              |                               |
-| Pacific Islander                 |                                                              |                               |
-| Two or More Races                |                                                              |                               |
-| White                            |                                                              |                               |
-| Other, unreported or N/A         |                                                              |                               |
-
 ### All CISC courses
 
 ![](https://raw.githubusercontent.com/d-khan/facultyinstitute/refs/heads/main/Success%20rate%20by%20ethnicity%20-%20CISC.png)
