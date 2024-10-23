@@ -1,47 +1,33 @@
 # Part I: Enrollment rates by Demographic
 
-## Question 1
+## Question 1 - Race or ethnicity
 
 **Directions for Questions 1-3:** For each demographic below (i.e., race or ethnicity, gender, age group), what percentage of students enrolled in your course(s) fall into each category?
 
 As you fill in the tables below with your percentages, **please keep in mind which demographics in your course are higher or lower compared to your overall college.**
 
-Spring 2024
+### Academic term: 2023/2024 (Fall 2023 & Spring 2024)
 
-Aggregate CISC courses
+### All CISC courses
 
-| **Race or Ethnicity**            | **% of Students Enrolled in Your Course(s)** | **Community College Overall** |
-| -------------------------------- | -------------------------------------------- | ----------------------------- |
-| African American or Black        | 6                                            | 5                             |
-| American Indian or Alaska Native | NA                                           | NA                            |
-| Asian                            | 28                                           | 14                            |
-| Filipino/a                       | 9                                          | 7                             |
-| Hispanic                         | 22                                         | 30                            |
-| Pacific Islander                 | NA                                          | 1                             |
-| Two or More Races                | 8                                         | 9                             |
-| White                            | 24                                         | 33                            |
-| Other, unreported or N/A         | 2                                          | 2                             |
+![CISC courses](https://raw.githubusercontent.com/d-khan/facultyinstitute/refs/heads/main/Enrollment%20by%20ethnicity%20-%20CISC.png)
 
-![xxx](https://github.com/d-khan/facultyinstitute/blob/main/Screen%20Shot%202024-10-22%20at%201.59.41%20PM.png)
+### Community college overall
 
-https://github.com/d-khan/facultyinstitute
+![](https://raw.githubusercontent.com/d-khan/facultyinstitute/refs/heads/main/Enrollment%20by%20ethnicity%20-%20all.png)
 
+## Question 2 - Gender
 
+### All CISC courses
 
-## Question 2
+![](https://raw.githubusercontent.com/d-khan/facultyinstitute/refs/heads/main/Enrollment%20by%20gender%20-%20CISC.png)
 
-| **Gender**                | **% of Students Enrolled in Your Course(s)** | **Community College Overall** |
-| ------------------------- | -------------------------------------------- | ----------------------------- |
-| Male                      | 74                                        | 56                            |
-| Female                    | 25                                           | 42                            |
-| Other, unreported, or N/A | 1                                          | 1                             |
+### Community college overall
 
-[Community College Overall](https://github.com/d-khan/facultyinstitute/blob/main/Screen%20Shot%202024-10-22%20at%202.15.29%20PM.png)
-
-[% of Students Enrolled in Your Course(s)](https://github.com/d-khan/facultyinstitute/blob/main/Screen%20Shot%202024-10-22%20at%202.16.29%20PM.png)
+![](https://raw.githubusercontent.com/d-khan/facultyinstitute/refs/heads/main/Enrollment%20by%20gender%20-%20all.png)
 
 
-## Question 3
+## Question 3 - Age
 
 | **Age Group**            | **% of Students Enrolled in Your Course(s)** | **Community College Overall** |
 | ------------------------ | -------------------------------------------- | ----------------------------- |
@@ -52,6 +38,14 @@ https://github.com/d-khan/facultyinstitute
 | 40-49                    | 2.5                                          | 2                             |
 | 50 and older             | 1.7                                          | 1                             |
 | Other, unreported or N/A | NA                                           | NA                            |
+
+### All CISC courses
+
+![](https://raw.githubusercontent.com/d-khan/facultyinstitute/refs/heads/main/Enrollment%20by%20gender%20-%20CISC.png)
+
+### Community college overall
+
+![](https://raw.githubusercontent.com/d-khan/facultyinstitute/refs/heads/main/Enrollment%20by%20gender%20-%20all.png)
 
 **Directions for Questions 4-6:** Looking at the demographic breakdown of students enrolled in your course(s) compared to the students at your college, please answer the following open-ended questions. Please note that these questions are intended for you to share your observations. There are no right or wrong answers.
 
@@ -95,50 +89,41 @@ b. What information, support, or training would you need to increase the enrollm
 
 # Part 2: Course retention rates by demographics
 
-## Question 7
+## Question 7 - Race or ethnicity
 
 **Directions for Questions 7-9:** For each demographic below, **what percentage of students enrolled in your course(s) did not withdraw and received a valid grade** (i.e., course retention rate)? A valid grade is typically any grade A-F, Passing or Not Passing.
 
 As you fill in the tables below with your percentages**,** please keep in mind which demographics in your course are higher or lower compared to your overall college.
 
-Course specific: CISC 211 (Spring 2024)
+### All CISC courses
 
-| **Race or Ethnicity**            | **% of Students Enrolled in Your Course(s) Who Did Not Withdraw and Received a Valid Grade (Course Retention Rate)** | **Community College Overall** |
-| -------------------------------- | ------------------------------------------------------------ | ----------------------------- |
-| African American or Black        | 85                                                           | 88                            |
-| American Indian or Alaska Native | NA                                                           | 93                            |
-| Asian                            | 97                                                           | 95                            |
-| Filipino/a                       | 100                                                          | 92                            |
-| Hispanic                         | 70                                                           | 91                            |
-| Pacific Islander                 | NA                                                           | 94                            |
-| Two or More Races                | 90                                                           | 91                            |
-| White                            | 94                                                           | 94                            |
-| Other, unreported or N/A         | NA                                                           | 96                            |
+![](https://raw.githubusercontent.com/d-khan/facultyinstitute/refs/heads/main/Retention%20rate%20by%20ethnicity%20-%20CISC.png)
+
+### Community college overall
+
+![](https://raw.githubusercontent.com/d-khan/facultyinstitute/refs/heads/main/Retention%20rate%20by%20ethnicity%20-%20all.png)
+
+## Question 8 - Gender
+
+### All CISC courses
+
+![](https://raw.githubusercontent.com/d-khan/facultyinstitute/refs/heads/main/Retention%20rate%20by%20gender%20-%20CISC.png)
+
+### Community college overall
+
+![](https://raw.githubusercontent.com/d-khan/facultyinstitute/refs/heads/main/Retention%20rate%20by%20gender%20-%20all.png)
+
+## Question 9 - Age
+
+### All CISC courses
+
+![](https://raw.githubusercontent.com/d-khan/facultyinstitute/refs/heads/main/Retention%20rate%20by%20age%20-%20CISC.png)
+
+### Community college overall
+
+![](https://raw.githubusercontent.com/d-khan/facultyinstitute/refs/heads/main/Retention%20rate%20by%20age%20-%20all.png)
 
 
-**[Community College Overall](https://github.com/d-khan/facultyinstitute/blob/main/Screen%20Shot%202024-10-20%20at%2010.07.24%20AM.png)**
-
-**[% of Students Enrolled in Your Course(s) Who Did Not Withdraw and Received a Valid Grade (Course Retention Rate)](https://github.com/d-khan/facultyinstitute/blob/main/Screen%20Shot%202024-10-20%20at%2010.15.08%20AM.png)**
-
-## Question 8
-
-| **Gender**                | **% of Students Enrolled in Your Course(s) Who Did Not Withdraw and Received a Valid Grade (Course Retention Rate)** | **Community College Overall** |
-| ------------------------- | ------------------------------------------------------------ | ----------------------------- |
-| Male                      |                                                              |                               |
-| Female                    |                                                              |                               |
-| Other, unreported, or N/A |                                                              |                               |
-
-## Question 9
-
-| **Age Group**            | **% of Students Enrolled in Your Course(s) Who Did Not Withdraw and Received a Valid Grade (Course Retention Rate)** | **Community College Overall** |
-| ------------------------ | ------------------------------------------------------------ | ----------------------------- |
-| 17 or younger            |                                                              |                               |
-| 18-24                    |                                                              |                               |
-| 25-29                    |                                                              |                               |
-| 30-39                    |                                                              |                               |
-| 40-49                    |                                                              |                               |
-| 50 and older             |                                                              |                               |
-| Other, unreported or N/A |                                                              |                               |
 
 **Directions for Questions 10-12:** Looking at the course retention rates of students enrolled in your course compared to the students at your college, please answer the following open-ended questions. Please note that these questions are intended for you to share your observations. There are no right or wrong answers.
 
@@ -170,7 +155,7 @@ c. What would be your next steps?
 
 # Part 3: Course success rates by demographic
 
-## Question 13
+## Question 13 - Race or ethnicity
 
 **Directions for Questions 13-15:** For each demographic below, **what percentage of students enrolled in your course(s) earned a passing or satisfactory grade** (i.e., course success rate)? A passing grade is typically any grade A-C or “Pass.”
 
@@ -189,15 +174,25 @@ As you fill in the tables below with your percentages**,** please keep in mind w
 | White                            |                                                              |                               |
 | Other, unreported or N/A         |                                                              |                               |
 
-## Question 14
+### All CISC courses
 
-| **Gender**                | **% of Students Enrolled in Your Course(s) Who Earned a Passing Grade****(Course Success Rate)** | **Community College Overall** |
-| ------------------------- | ------------------------------------------------------------ | ----------------------------- |
-| Male                      |                                                              |                               |
-| Female                    |                                                              |                               |
-| Other, unreported, or N/A |                                                              |                               |
+![](https://raw.githubusercontent.com/d-khan/facultyinstitute/refs/heads/main/Success%20rate%20by%20ethnicity%20-%20CISC.png)
 
-## Question 15
+### Community college overall
+
+![](https://raw.githubusercontent.com/d-khan/facultyinstitute/refs/heads/main/Success%20rate%20by%20ethnicity%20-%20all.png)
+
+## Question 14 - Gender
+
+### All CISC courses
+
+![](https://raw.githubusercontent.com/d-khan/facultyinstitute/refs/heads/main/Success%20rate%20by%20gender%20-%20CISC.png)
+
+### Community college overall
+
+![](https://raw.githubusercontent.com/d-khan/facultyinstitute/refs/heads/main/Success%20rate%20by%20ethnicity%20-%20all.png)
+
+## Question 15 - Age
 
 | **Age Group**            | **% of Students Enrolled in Your Course(s) that Earned a Passing Grade****(Course Success Rate)** | **Community College Overall** |
 | ------------------------ | ------------------------------------------------------------ | ----------------------------- |
@@ -208,6 +203,14 @@ As you fill in the tables below with your percentages**,** please keep in mind w
 | 40-49                    |                                                              |                               |
 | 50 and older             |                                                              |                               |
 | Other, unreported or N/A |                                                              |                               |
+
+### All CISC courses
+
+![](https://raw.githubusercontent.com/d-khan/facultyinstitute/refs/heads/main/Success%20rate%20by%20age%20-%20CISC.png)
+
+### Community college overall
+
+![](https://raw.githubusercontent.com/d-khan/facultyinstitute/refs/heads/main/Success%20rate%20by%20age%20-%20all.png)
 
 **Directions for Questions 16-19:** Looking at the course retention and success rates of students enrolled in your course compared to your college overall, please answer the following open-ended questions. Please note that these questions are intended for you to share your observations. There are no right or wrong answers.
 
@@ -284,5 +287,3 @@ a. Do you see differences in enrollments, course retention, and course success/c
 b. Are you surprised by any of these trends, or are they what you expected?
 
 c. Why do you think these trends exist?
-
-
