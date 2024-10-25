@@ -43,29 +43,27 @@ As you fill in the tables below with your percentages, **please keep in mind whi
 
 a. Which ethnic or racial groups at your institution are underrepresented in your courses?
 
-> African American or Black, Hispanic, and Pacific Islander.
+> What is the cutoff value for the underrepresented? If I average out, then it comes to 12.5. Filipinos, multi-ethnic, African American or Black, and Pacific Islander groups are underrepresented.
 
 b. Why do you think this underrepresentation exists?
 
-> Based on my observation, such students have financial responsibilities and are busy working for the family.
-
 c. Do you know of any systemic barriers impacting access for underrepresented groups?
 
-> As mentioned above, economic reasons are one of the main barriers to accessing education.
+> Answers to b & c: Most blacks in STEM positions consider major underlying reasons for the underrepresentation of blacks and Hispanics in science, technology, engineering and math occupations to be limited access to quality education, discrimination in recruitment and promotions and a lack of encouragement to pursue these jobs from an early age. [https://www.pewresearch.org/social-trends/2018/01/09/blacks-in-stem-jobs-are-especially-concerned-about-diversity-and-discrimination-in-the-workplace/, last access 24 Oct 1980]
 
 ## Question 5
 
 a. After analyzing your course enrollments, what follow-up questions do you have?
 
-> The enrollment data provides an overview of the student population. A notable difference exists between the male and female populations, with males being the dominant group. I would like to understand the reasons behind this disparity.
+> The enrollment data provides an overview of the student population. A notable difference exists between the male and female populations, with males being the dominant group. 
 
 b. What else would you like to know about your students?
 
-> What are the barriers to female education?
+> I would like to know how many students are veterans.
 
 c. What next steps could you take to obtain the answers to your questions?
 
-> More research is needed to determine the barriers to female education. Check if there is any recent study after COVID has been done.
+> Read the literature to find out why male is dominated over females in STEM. Secondly input veteran information, which I am sure is collected in the enrollment process. Add this information in the system.
 
 ## Question 6
 
@@ -75,7 +73,7 @@ a. How could you use demographic data regarding the local community, the college
 
 b. What information, support, or training would you need to increase the enrollment of underrepresented student groups in your classes?
 
-> Based on the enrollment data, the general enrollment trend among underrepresented groups is low throughout the college. The CISC courses also see the ripple effect of low enrollment among underrepresented groups. Schedule open days and showcase hands-on activities to the community to create excitement, setup computer game consoles are few examples.
+> The enrollment data indicates that the overall trend among underrepresented groups at the college is low. This low enrollment also affects the CISC courses, reflecting a broader issue. I believe that addressing this situation requires systemic change starting from the grassroots level. However, I am uncertain if training would effectively enhance the enrollment of underrepresented populations.
 
 # Part 2: Course retention rates by demographics
 
