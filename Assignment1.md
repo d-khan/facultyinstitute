@@ -79,6 +79,8 @@ b. What information, support, or training would you need to increase the enrollm
 
 ## Question 7 - Race or ethnicity
 
+**Retention rate threshold is 90%**
+
 **Directions for Questions 7-9:** For each demographic below, **what percentage of students enrolled in your course(s) did not withdraw and received a valid grade** (i.e., course retention rate)? A valid grade is typically any grade A-F, Passing or Not Passing.
 
 As you fill in the tables below with your percentages**,** please keep in mind which demographics in your course are higher or lower compared to your overall college.
@@ -119,19 +121,29 @@ As you fill in the tables below with your percentages**,** please keep in mind w
 
 a. Which ethnic or racial groups at your institution experience relatively lower retention rates in your courses?
 
-> Retention rate of one course versus retention rate for the entire college is like comparing apples to oranges. Performing statistical analysis of low N versus high N will give fluctuations in the result. In my spring 2024, CISC 211 class, there were 134 students as compared to over 27k students for the entire college. In addition, Computer Science courses are generally required hard skills and require prior knowledge of computers
+> Based on the 90% threshold, the multi-ethnic and Latinx population is just under 90%
 
 b. Why do you think this pattern exists?
 
+> The data is inconclusive to identify patterns.
+
 c. Do you know of any systemic barriers impacting course retention for these groups?
+
+> The literature review highlights several systemic barriers encountered by the Latinx population, such as financial constraints, family responsibilities, limited support from teachers, peer pressure, and systemic discrimination. However, it's encouraging to note that, despite these challenges, the retention rate for multi-ethnic and Latinx students in CISC courses is nearing an impressive 90%. This suggests that with continued support and resources, we can further enhance these positive outcomes.
 
 ## Question 11
 
 a. After analyzing your course retention rates, what follow-up questions do you have?
 
+> Why is the retention rate of the Latinx population lower in CISC courses compared to the overall Latinx population at the college?
+
 b. What else would you like to know about your students?
 
+> Identifying the reasons why students leave the course is crucial for us to offer tailored support that can help them succeed.
+
 c. What next steps could you take to obtain the answers to your questions?
+
+> Develop a constructive feedback questionnaire to collect valuable insights from students who are withdrawing from the course. This will help us understand their reasons and improve the program for future participants.
 
 ## Question 12
 
@@ -139,11 +151,17 @@ a. Are you interested in increasing the retention rates of a specific demographi
 
 b. If so, what information, support, or training would you need to help you increase that demographic’s retention rates?
 
+> The data shows that the retention rate for the Latinx population is slightly below 90%. According to the response from question 11c, I should be able to determine my next steps. For instance, if there is a financial hardship, I will reach out to the appropriate person in Student Services for assistance.
+
 c. What would be your next steps?
+
+> Already answered above.
 
 # Part 3: Course success rates by demographic
 
 ## Question 13 - Race or ethnicity
+
+**Retention rate threshold is 78%**
 
 **Directions for Questions 13-15:** For each demographic below, **what percentage of students enrolled in your course(s) earned a passing or satisfactory grade** (i.e., course success rate)? A passing grade is typically any grade A-C or “Pass.”
 
@@ -184,9 +202,15 @@ As you fill in the tables below with your percentages**,** please keep in mind w
 
 a. Which ethnic or racial groups at your institution experience relatively lower success rates in your courses?
 
+> Multi-ethnic, Black/African-American, and Latinx groups.
+
 b. Why do you think this pattern exists?
 
+> Probably due to systemic barriers to these groups.
+
 c. Do you know of any systemic barriers impacting course success for these student groups?
+
+> Possibly due to financial constraints, family responsibilities, limited support from teachers, peer pressure, and systemic discrimination, some students may underperform. It would be beneficial for teachers to gather information from these underperforming students to help develop new strategies and plans that better support them.
 
 ## Question 17
 
