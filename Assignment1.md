@@ -24,7 +24,7 @@ As you fill in the tables below with your percentages, **please keep in mind whi
 
 ### Community college overall
 
-![](https://raw.githubusercontent.com/d-khan/facultyinstitute/refs/heads/main/Enrollment%20by%20gender%20-%20all.png)
+![](https://github.com/d-khan/facultyinstitute/blob/main/Success%20rate%20by%20gender%20-%20all.png)
 
 
 ## Question 3 - Age
