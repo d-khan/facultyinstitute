@@ -216,7 +216,11 @@ c. Do you know of any systemic barriers impacting course success for these stude
 
 a. Do you have any demographics with a high retention rate, but low success rate?
 
+NA
+
 b. Conversely, do you have any demographics with a low retention rate, but high success rate?
+
+NA
 
 c. If so, why do you think these trends exist?
 
@@ -224,15 +228,25 @@ c. If so, why do you think these trends exist?
 
 a. After analyzing your course success rates, what follow-up questions do you have?
 
+> As age increases, the success rate decreases. Is this merely a coincidence, or is there an existing relationship?
+
 b. What else would you like to know about your students?
 
+> See below
+
 c. What next steps could you take to obtain the answers to your questions?
+
+> To enhance our support for mature students, we should proactively gather information about their work status (full-time or part-time) and family responsibilities during the enrollment process. This valuable insight will enable us to tailor our services to better meet their needs. Additionally, making this information available to faculty members will foster a more understanding and accommodating learning environment.
 
 ## Question 19
 
 a. Are you interested in increasing the course success rates of a specific demographic?
 
+> Rhetorical question!!
+
 b. If so, what information, support, or training would you need to help you increase that demographic’s success rates?
+
+> Same as 16c
 
 # Longitudinal analysis
 
@@ -244,27 +258,43 @@ If you have **not** taught more than one term, **enter “N/A” for all questio
 
 a. Do you see differences in enrollments, course retention, and course success/completion due to your **course format** (e.g., fully on campus/in-person, fully online, or hybrid)?
 
+> According to the information provided by my Chair, hybrid, 100% asynchronous online, and hyflex courses tend to have better enrollment compared to fully on-campus courses. However, I have not tested course enrollment myself, as I have never taught a fully in-person course.
+
 b. Why do you think these trends exist?
+
+> 100% online asynchronous, hybrid, and hyflex courses have better enrollment due to reduced travel and other commitments.
 
 ## Question 21
 
 a. What do you think is the ideal balance between online (virtual) courses and in-person courses for students?
 
+> Ideal balance in terms of ???
+
 b. Which student groups might benefit from access to online courses?
 
+> Students who have responsibilities such as family and jobs.
+
 c. Which student groups might benefit from access to in-person courses?
+
+> Students with limited financial responsibilities who can commute or lack a quiet environment at home.
 
 ## Question 22
 
 a. Do you see differences in enrollments, course retention, and course success/completion between **different terms**? For example, do your courses have higher attendance in the spring term compared to the fall term?
 
+> I've observed that student enrollment tends to be higher in the spring than in the fall, which might present us with an opportunity to enhance our recruitment strategies for the fall semester.
+
 b. Are you surprised by any of these trends, or are they what you expected?
 
 c. Why do you think these trends exist?
 
+> I am not sure.
+
 ## Question 23
 
 a. Do you see differences in enrollments, course retention, and course success/completion when the course is offered in the **evening versus in the morning or in the afternoon**?
+
+NA
 
 b. Are you surprised by any of these trends, or are they what you expected?
 
@@ -274,6 +304,9 @@ c. Why do you think these trends exist?
 
 a. Do you see differences in enrollments, course retention, and course success/completion depending on **different course lengths** (e.g., 4-week intersession, 6 weeks, 8 weeks, 12 weeks, 16 weeks)?
 
+> I have only taught in 16 weeks courses..
+
 b. Are you surprised by any of these trends, or are they what you expected?
 
 c. Why do you think these trends exist?
+
