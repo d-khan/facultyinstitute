@@ -194,7 +194,7 @@ As you fill in the tables below with your percentages**,** please keep in mind w
 
 ### Community college overall
 
-![](https://github.com/d-khan/facultyinstitute/blob/main/Success%20rate%20by%20age%20-%20all.png)
+![](https://raw.githubusercontent.com/d-khan/facultyinstitute/refs/heads/main/Success%20rate%20by%20age%20-%20all.png)
 
 **Directions for Questions 16-19:** Looking at the course retention and success rates of students enrolled in your course compared to your college overall, please answer the following open-ended questions. Please note that these questions are intended for you to share your observations. There are no right or wrong answers.
 
