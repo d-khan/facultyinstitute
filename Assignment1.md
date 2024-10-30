@@ -184,7 +184,7 @@ As you fill in the tables below with your percentages**,** please keep in mind w
 
 ### Community college overall
 
-![](https://raw.githubusercontent.com/d-khan/facultyinstitute/refs/heads/main/Success%20rate%20by%20ethnicity%20-%20all.png)
+![](https://raw.githubusercontent.com/d-khan/facultyinstitute/refs/heads/main/Success%20rate%20by%20gender%20-%20all.png)
 
 ## Question 15 - Age
 
