@@ -35,7 +35,7 @@ As you fill in the tables below with your percentages, **please keep in mind whi
 
 ### Community college overall
 
-![](https://raw.githubusercontent.com/d-khan/facultyinstitute/refs/heads/main/Enrollment%20by%20gender%20-%20all.png)
+![](https://raw.githubusercontent.com/d-khan/facultyinstitute/refs/heads/main/Enrollment%20by%20age%20-%20all.png)
 
 **Directions for Questions 4-6:** Looking at the demographic breakdown of students enrolled in your course(s) compared to the students at your college, please answer the following open-ended questions. Please note that these questions are intended for you to share your observations. There are no right or wrong answers.
 
