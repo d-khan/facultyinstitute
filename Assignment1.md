@@ -31,7 +31,7 @@ As you fill in the tables below with your percentages, **please keep in mind whi
 
 ### All CISC courses
 
-![](https://raw.githubusercontent.com/d-khan/facultyinstitute/refs/heads/main/Enrollment%20by%20gender%20-%20CISC.png)
+![](https://raw.githubusercontent.com/d-khan/facultyinstitute/refs/heads/main/Enrollment%20by%20age%20-%20CISC.png)
 
 ### Community college overall
 
